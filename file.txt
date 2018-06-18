@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Rome as a capital of Italy is staged
+Tokyo as a capital of Japan was not staged
